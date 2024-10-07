@@ -12,12 +12,12 @@ layout: default
 	font-weight: normal;font-size: 30px;">2025 FinTech and Financial Institutions Conference -- Technical Track </p>
 
 ## Registration
-<p> <strong> Registration will open February 1, 2025; stay tuned! </p>
+<p> Registration will open February 1, 2025; stay tuned! </p>
 
 <!-- <p> <strong> To attend the workshop, please register for FREE at <a href="https://forms.gle/N8Puo7f2BMDziKXeA"> <strong> https://forms.gle/N8Puo7f2BMDziKXeA </strong> </a> </strong> </p> -->
 
 ## Date and Location
-<p> <strong>  April 10-11, 2025 <br /> Philadelphia, PA  </p>
+<p> April 10-11, 2025 <br /> Philadelphia, PA  </p>
 
 ## Agenda
 
