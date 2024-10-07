@@ -9,10 +9,10 @@ layout: default
 
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.3;
-	font-weight: normal;font-size: 30px;">2025 FinTech and Financial Institutions Conference -- Technical Innovations <br /> University of Delaware</p>
+	font-weight: normal;font-size: 30px;">2025 FinTech and Financial Institutions Conference -- Technical Track </p>
 
 ## Registration
-<p> <strong> Registration will open February 1, 2025 </p>
+<p> <strong> Registration will open February 1, 2025; stay tuned! </p>
 
 <!-- <p> <strong> To attend the workshop, please register for FREE at <a href="https://forms.gle/N8Puo7f2BMDziKXeA"> <strong> https://forms.gle/N8Puo7f2BMDziKXeA </strong> </a> </strong> </p> -->
 
@@ -21,7 +21,7 @@ layout: default
 
 ## Agenda
 
-<p> <strong> The Agenda will be updated March 1, 2025 </p>
+<p> The event Agenda will be posted here on March 1, 2025 </p>
 
 <!-- <p> <strong> The agenda for the 2024 workshop <strong> will be added here.  </strong> </strong> </p> -->
 
@@ -42,7 +42,10 @@ This event aims to bring together researchers, practitioners, and industry exper
 Also, of interest are contributions that can point the FinTech community to new research directions, and those that can set agendas and priorities for future FinTech applications.
 
 ## Call for Papers
-<p> <strong> The Call for Papers and submission information will be posted here on October 30, 2024 </p>
+<p> The Call for Papers and submission information will be posted here on October 30, 2024 </p>
+
+## Technical Program Committee
+<p> To nominate technical program committee members, please email the Chairs. </p>
 
 ## Chairs
 * Nektarios Tsoutsos, University of Delaware (tsoutsos at udel dot edu)
