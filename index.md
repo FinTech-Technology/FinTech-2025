@@ -25,9 +25,9 @@ layout: default
 
 <!-- <p> <strong> The agenda for the 2024 workshop <strong> will be added here.  </strong> </strong> </p> -->
 
-## Scope
+## Call for Contributions
 
-This event aims to bring together researchers, practitioners, and industry experts to discuss the latest advancements, challenges, and opportunities in the FinTech space. The topics of interest to the workshop include but are not limited to:
+This event aims to bring together researchers, practitioners, and industry experts to discuss the latest advancements, challenges, and opportunities in the FinTech space. The topics of interest include but are not limited to:
 
 * Security and privacy in FinTech space
 * Artificial intelligence for FinTech operations
@@ -41,8 +41,8 @@ This event aims to bring together researchers, practitioners, and industry exper
 
 Also, of interest are contributions that can point the FinTech community to new research directions, and those that can set agendas and priorities for future FinTech applications.
 
-## Call for Papers
-<p> The Call for Papers and submission information will be posted here on October 30, 2024 </p>
+## Papers Submission
+<p> The HotCRP submission website will open on October 30, 2024. </p>
 
 ## Technical Program Committee
 <p> To nominate technical program committee members, please email the Chairs. </p>
