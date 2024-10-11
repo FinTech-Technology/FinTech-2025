@@ -14,10 +14,8 @@ layout: default
 ## Registration
 <p> Registration will open February 1, 2025; stay tuned! </p>
 
-<!-- <p> <strong> To attend the workshop, please register for FREE at <a href="https://forms.gle/N8Puo7f2BMDziKXeA"> <strong> https://forms.gle/N8Puo7f2BMDziKXeA </strong> </a> </strong> </p> -->
-
 ## Date and Location
-<p> April 10-11, 2025 <br /> Philadelphia, PA  </p>
+<p> April 10-11, 2025 <br /> 10 N Independence Mall W, Philadelphia, PA 19106 </p>
 
 ## Agenda
 
