@@ -38,7 +38,7 @@ _Submission format for the Tech Track:_ *Please use the Springer Nature LNCS tem
 Full CFP available [**here**](https://www.udel.edu/content/dam/udelImages/star/fintech-innovation-hub/2025-fintech-conference/2025_FinTech_conference.docx.pdf).
 
 ## Technical Papers Submission
-**The HotCRP submission website can be accessed [**here**](https://fintech25.org).**
+*The HotCRP submission website can be accessed [**here**](https://fintech25.org).*
 
 Submission deadline: December 30, 2024 at 11:59 EST.
 
