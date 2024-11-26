@@ -35,7 +35,7 @@ Submissions of high-quality theoretical and empirical research papers exploring 
 
 _Submission format for the Tech Track:_ *Please use the Springer Nature LNCS template available [**here**](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).*
 
-Full CFP available [**here**](https://www.udel.edu/content/dam/udelImages/star/fintech-innovation-hub/2025-fintech-conference/2025_FinTech_conference.docx.pdf).
+Full CFP available [**here**](https://www.udel.edu/content/dam/udelImages/star/fintech-innovation-hub/2025-fintech-conference/2025_FinTech_Conference.docx_(1).pdf).
 
 ## Technical Papers Submission
 *The HotCRP submission website can be accessed [**here**](https://fintech25.org).*
@@ -53,7 +53,7 @@ Submission deadline: December 30, 2024 at 11:59 EST.
 
 ## Track Chairs
 * Nektarios Tsoutsos, University of Delaware (tsoutsos at udel dot edu)
-* Gang Wang, , University of Delaware (gangw at udel dot edu)
+* Gang Wang, University of Delaware (gangw at udel dot edu)
 
 
 ## Sponsors
