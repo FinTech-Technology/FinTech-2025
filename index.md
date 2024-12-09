@@ -14,6 +14,9 @@ layout: default
 ## Date and Location
 <p> April 10-11, 2025 <br /> Federal Reserve Bank of Philadelphia  <br /> 10 N Independence Mall W, Philadelphia, PA 19106 </p>
 
+## Keynote Speakers
+We are delighted to announce our keynote speakers for the Conference. **Stefan Nagel**, the Fama Family Distinguished Service Professor of Finance at the University of Chicago Booth School of Business, will be a keynote speaker for the Conference. **Ramayya Krishnan**, Dean of the Heinz College of Information Systems and Public Policy and William W. and Ruth F. Cooper Professor of Management Science and Information Systems at Carnegie Mellon University will also be a keynote speaker for the Conference.
+
 ## Call for Contributions
 
 The Fintech and Financial Institutions Conference is a forum for presenting and discussing current research on the inter-linkages of the fintech sector and the broader financial system. The tech track of the conference will focus on technology and engineering developments that are key to the way fintech works within the financial system. The technical sessions of the conference will address engineering and security issues that are driving the evolution of financial institutions and alternative financial service providers. These sessions will follow the standard engineering conference format and will include formal proceedings published by Springer Nature.
@@ -35,12 +38,18 @@ Submissions of high-quality theoretical and empirical research papers exploring 
 
 _Submission format for the Tech Track:_ *Please use the Springer Nature LNCS template available [**here**](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).*
 
-Full CFP available [**here**](https://www.udel.edu/content/dam/udelImages/star/fintech-innovation-hub/2025-fintech-conference/2025_FinTech_Conference.docx_(1).pdf).
+Full CFP available [**here**](https://fintech-technology.github.io/FinTech-2025/FinTech25-CFP.pdf).
 
 ## Technical Papers Submission
 *The HotCRP submission website can be accessed [**here**](https://fintech25.org).*
 
-Submission deadline: December 30, 2024 at 11:59 EST.
+Submission deadline: January 14, 2025 at 11:59 EST.
+
+## Call For Posters
+We invite PhD students to submit posters for the conference poster session  in the evening on April 9. This is an excellent opportunity to showcase your research, gain feedback from leading experts, and engage with peers in your field. Posters should cover the same areas of interest as outlined in the call for papers, including both economics/finance and engineering/technical aspects. We expect to be able to provide partial travel honoraria for students upon request; priority is given to students on a need-basis.
+
+* Format: Posters should be in size 32in x 24in.
+* Submission: Submit a PDF of your poster [**here**](https://fintech25.org) by February 15, 2024. Submissions will open January 21, 2025.
 
 ## Registration
 <p> Registration will open March 1, 2025; stay tuned! </p>
@@ -54,7 +63,6 @@ Submission deadline: December 30, 2024 at 11:59 EST.
 ## Track Chairs
 * Nektarios Tsoutsos, University of Delaware (tsoutsos at udel dot edu)
 * Gang Wang, University of Delaware (gangw at udel dot edu)
-
 
 ## Sponsors
 
